@@ -30,23 +30,20 @@ The system is designed for patients, fitness users, and physiotherapy assistance
 # 📸 Project Demo & Screenshots
 
 ## 🧍 AI Posture Detection
-![Image Analysis](./images/image-analysis.png)
+![Image Analysis](./Physio_Images/overview.png)
 
 ---
-
-## ⚙️ Technical Architecture
-![Technical Approach](./images/technical-approach.png)
 
 ---
 
 ## 🧠 Solution Workflow
-![Solution](./images/solution.png)
+![Solution](./Physio_Images/Solution.png)
+![Solution](./Physio_Images/Solution1.png)
 
 ---
 
 ## 📱 Application Wireframe
-![Wireframe](./images/wireframe.png)
-
+![Wireframe](./Physio_Images/Wirframe.png)
 ---
 # 🚀 Features
 
